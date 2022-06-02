@@ -1,15 +1,14 @@
 # Simple website
-> This website was written some time ago when I was learning HTML and CSS, it has some __outdated__ code and things made improperly like long time of loading, inaccurate responsivness, etc.
+> Made during learning HTML and CSS. It is __outdated__, not correctly created and has display issues.
+
 ## General info
-One of my first projects created with HTML and CSS only. Idea and style are designed by myself.
-## Setup
-Here's link to the demo: https://wauk33.github.io/MyRepo/old%20CSS%20website
+One of my first projects created with HTML, CSS and a little JS. Design and idea by myself.
+
+## Preview
+https://wauk33.github.io/MyRepo/old%20CSS%20website
 > Hosted on GitHub Pages
 
 ## Features
 * Site is responsive
 * Using Flexbox
-## Status
-Project is: _partly finished_, _not developed_
-
 
